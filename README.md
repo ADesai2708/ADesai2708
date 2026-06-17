@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e8a6c8c0-d480-4f8f-9d89-497bb1a539c7" /><h1 align="center"> 🙏Namaste, I'm Anjali Desai!</h1>
+<img width="10" height="10" alt="image" src="https://github.com/user-attachments/assets/e8a6c8c0-d480-4f8f-9d89-497bb1a539c7" /><h1 align="center"> 🙏Namaste, I'm Anjali Desai!</h1>
 
 <p align="center">
   <b>AI/ML Enthusiastic · Full-Stack Developer · Competitive Programmer</b><br/>
