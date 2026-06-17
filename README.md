@@ -1,7 +1,7 @@
-<h1 align="center"> Hello, I'm Anjali Desai!</h1>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/e8a6c8c0-d480-4f8f-9d89-497bb1a539c7" /><h1 align="center"> 🙏Namaste, I'm Anjali Desai!</h1>
 
 <p align="center">
-  <b> Full-Stack Developer · Competitive Programmer</b><br/>
+  <b>AI/ML Enthusiastic · Full-Stack Developer · Competitive Programmer</b><br/>
   Building Intelligent Systems with Code & Curiosity 🤖💻🏆
 </p>
 
@@ -64,62 +64,74 @@
 
 <table>
   <tr>
-    <td width="50%">
-      <h3 align="center">🏥 SHWAS</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🧠 RAG-Based Document Chatbot</h3>
       <p align="center">
-        <a href="https://github.com/ADesai2708/S.I.H">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADesai2708&repo=S.I.H&theme=radical&hide_border=true" />
+        <a href="https://github.com/ADesai2708/RAG---Based-Document-Chatbot">
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
+      <p>
+        Conversational AI system for intelligent Q&A over document collections using <b>Retrieval-Augmented Generation</b>. Delivers context-aware answers with source citations via vector embeddings + LLMs.
+      </p>
       <p align="center">
-        Smart Hospital Workflow Automation System<br/>
-        <img src="https://img.shields.io/badge/MERN-Stack-green?style=flat-square"/>
-        <img src="https://img.shields.io/badge/Socket.IO-realtime-black?style=flat-square&logo=socket.io"/>
-        <img src="https://img.shields.io/badge/NLP-Triage-blueviolet?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Qdrant-Vector%20DB-DC143C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SentenceTransformers-NLP-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi"/>
+        <img src="https://img.shields.io/badge/LLM-RAG-blueviolet?style=flat-square"/>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">📄 Adobe PDF Extractor</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">📄 Multimodal PDF Extractor</h3>
       <p align="center">
         <a href="https://github.com/ADesai2708/pdf-extractor-1b">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADesai2708&repo=pdf-extractor-1b&theme=radical&hide_border=true" />
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
+      <p>
+        Intelligent document processing tool extracting <b>text, images, tables & structured data</b> from complex PDF layouts using multimodal AI. Preserves formatting for seamless downstream processing.
+      </p>
       <p align="center">
-        Top 100 Pan India — Adobe India Hackathon<br/>
-        <img src="https://img.shields.io/badge/FastAPI-backend-009688?style=flat-square&logo=fastapi"/>
-        <img src="https://img.shields.io/badge/Docker-containerized-2496ED?style=flat-square&logo=docker"/>
-        <img src="https://img.shields.io/badge/PDF-Intelligence-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/BLIP-Vision%20Model-5C3EE8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/PyMuPDF-Parser-orange?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Docker-Containerized-2496ED?style=flat-square&logo=docker"/>
+        <img src="https://img.shields.io/badge/Adobe%20Hackathon-Top%20100-gold?style=flat-square"/>
       </p>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">🎓 Pragya-AI</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🌳 DSA Visualizer</h3>
       <p align="center">
-        <a href="https://github.com/ADesai2708">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADesai2708&repo=Case-Study&theme=radical&hide_border=true" />
+        <a href="https://github.com/ADesai2708/DSA-Visualizer">
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
+      <p>
+        Interactive platform for learning <b>Data Structures & Algorithms</b> with real-time step-by-step animations. Supports code execution, complexity analysis, and visual representations across multiple DSA concepts.
+      </p>
       <p align="center">
-        AI-Powered Course Generation Platform<br/>
-        <img src="https://img.shields.io/badge/Gemini-API-4285F4?style=flat-square&logo=google"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-Supabase-3ECF8E?style=flat-square&logo=supabase"/>
-        <img src="https://img.shields.io/badge/YouTube-Recommendations-red?style=flat-square&logo=youtube"/>
+        <img src="https://img.shields.io/badge/React-Animations-61DAFB?style=flat-square&logo=react"/>
+        <img src="https://img.shields.io/badge/JavaScript-Logic-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Complexity-Analysis-00C49F?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Interactive-Visualizer-FF6B6B?style=flat-square"/>
       </p>
     </td>
-    <td width="50%">
-      <h3 align="center">🔮 Multimodal RAG System</h3>
+    <td width="50%" valign="top">
+      <h3 align="center">🏥 SHWAS</h3>
       <p align="center">
-        <a href="https://github.com/ADesai2708/adobe-front-">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADesai2708&repo=adobe-front-&theme=radical&hide_border=true" />
+        <a href="https://github.com/ADesai2708/S.I.H">
+          <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
         </a>
       </p>
+      <p>
+        Smart Health & Wellness Assistant System — a comprehensive health monitoring platform that tracks <b>vital metrics</b> and delivers <b>AI-driven personalized wellness insights</b> and actionable health guidance.
+      </p>
       <p align="center">
-        Multimodal Retrieval-Augmented Generation<br/>
-        <img src="https://img.shields.io/badge/Qdrant-vector%20DB-DC143C?style=flat-square"/>
-        <img src="https://img.shields.io/badge/BLIP-vision-5C3EE8?style=flat-square"/>
-        <img src="https://img.shields.io/badge/SentenceTransformers-NLP-FF6F00?style=flat-square"/>
+        <img src="https://img.shields.io/badge/MERN-Stack-green?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Socket.IO-Realtime-black?style=flat-square&logo=socket.io"/>
+        <img src="https://img.shields.io/badge/NLP-Auto%20Triage-7B2FBE?style=flat-square"/>
+        <img src="https://img.shields.io/badge/AI-Health%20Insights-FF4C4C?style=flat-square"/>
       </p>
     </td>
   </tr>
