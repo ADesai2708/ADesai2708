@@ -1,7 +1,7 @@
-<h1 align="center">👋 Hi, I'm Anjali Desai!</h1>
+<h1 align="center"> Hello, I'm Anjali Desai!</h1>
 
 <p align="center">
-  <b>ML Engineer · Full-Stack Developer · Competitive Programmer</b><br/>
+  <b> Full-Stack Developer · Competitive Programmer</b><br/>
   Building Intelligent Systems with Code & Curiosity 🤖💻🏆
 </p>
 
@@ -16,12 +16,12 @@
   <a href="https://www.linkedin.com/in/anjali-desai-b56449291/">
     <img src="https://img.shields.io/badge/LinkedIn-Anjali%20Desai-blue?style=flat&logo=linkedin" />
   </a>
-  <a href="https://leetcode.com/u/HN9y5tsl81/">
+  <!-- <a href="https://leetcode.com/u/HN9y5tsl81/">
     <img src="https://img.shields.io/badge/LeetCode-ADesai2708-FE7A16?style=flat&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://www.hackerrank.com/profile/a_desai2708">
     <img src="https://img.shields.io/badge/HackerRank-a__desai2708-2EC866?style=flat&logo=hackerrank&logoColor=white" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -62,13 +62,68 @@
 
 ## 💼 Projects I'm Working On
 
-[![](https://img.shields.io/badge/🏥%20SHWAS-Hospital%20Workflow%20Automation-MERN%20Stack-green?style=for-the-badge)](https://github.com/ADesai2708/S.I.H)
-
-[![](https://img.shields.io/badge/🎓%20Pragya--AI-AI%20Course%20Generation%20Platform-Gemini%20%7C%20PostgreSQL-blue?style=for-the-badge)](https://github.com/ADesai2708)
-
-[![](https://img.shields.io/badge/📄%20Adobe%20PDF%20Extractor-Document%20Intelligence%20System-FastAPI%20%7C%20Docker-orange?style=for-the-badge)](https://github.com/ADesai2708/pdf-extractor-1b)
-
-[![](https://img.shields.io/badge/🔮%20Multimodal%20RAG-Qdrant%20%7C%20SentenceTransformers%20%7C%20BLIP-purple?style=for-the-badge)](https://github.com/ADesai2708)
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🏥 SHWAS</h3>
+      <p align="center">
+        <a href="https://github.com/ADesai2708/S.I.H">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADesai2708&repo=S.I.H&theme=radical&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">
+        Smart Hospital Workflow Automation System<br/>
+        <img src="https://img.shields.io/badge/MERN-Stack-green?style=flat-square"/>
+        <img src="https://img.shields.io/badge/Socket.IO-realtime-black?style=flat-square&logo=socket.io"/>
+        <img src="https://img.shields.io/badge/NLP-Triage-blueviolet?style=flat-square"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">📄 Adobe PDF Extractor</h3>
+      <p align="center">
+        <a href="https://github.com/ADesai2708/pdf-extractor-1b">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADesai2708&repo=pdf-extractor-1b&theme=radical&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">
+        Top 100 Pan India — Adobe India Hackathon<br/>
+        <img src="https://img.shields.io/badge/FastAPI-backend-009688?style=flat-square&logo=fastapi"/>
+        <img src="https://img.shields.io/badge/Docker-containerized-2496ED?style=flat-square&logo=docker"/>
+        <img src="https://img.shields.io/badge/PDF-Intelligence-orange?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🎓 Pragya-AI</h3>
+      <p align="center">
+        <a href="https://github.com/ADesai2708">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADesai2708&repo=Case-Study&theme=radical&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">
+        AI-Powered Course Generation Platform<br/>
+        <img src="https://img.shields.io/badge/Gemini-API-4285F4?style=flat-square&logo=google"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-Supabase-3ECF8E?style=flat-square&logo=supabase"/>
+        <img src="https://img.shields.io/badge/YouTube-Recommendations-red?style=flat-square&logo=youtube"/>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🔮 Multimodal RAG System</h3>
+      <p align="center">
+        <a href="https://github.com/ADesai2708/adobe-front-">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=ADesai2708&repo=adobe-front-&theme=radical&hide_border=true" />
+        </a>
+      </p>
+      <p align="center">
+        Multimodal Retrieval-Augmented Generation<br/>
+        <img src="https://img.shields.io/badge/Qdrant-vector%20DB-DC143C?style=flat-square"/>
+        <img src="https://img.shields.io/badge/BLIP-vision-5C3EE8?style=flat-square"/>
+        <img src="https://img.shields.io/badge/SentenceTransformers-NLP-FF6F00?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -111,4 +166,3 @@
   <i>"Building technology that solves problems, not just projects."</i><br/>
   Designed with ❤️ by Anjali Desai | Let's build something amazing together 🚀
 </p>
-💻 GitHub
